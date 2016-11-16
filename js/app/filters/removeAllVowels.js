@@ -6,4 +6,4 @@ function removeAllVowels() {
 
 angular
 	.module('app')
-	.filter('removeAllVowels', removeAllVowels);
+	.filter('removeAllVowels', removeAllVowels)
